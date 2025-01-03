@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">✨ Tech Stack ✨</h3>
+  <h3>✨ Tech Stack ✨</h3>
   <div>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
     <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
@@ -9,25 +9,27 @@
     <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
   </div>
-</div>
-
-<h3 align="center">🛠 Tools & Services 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
-</div>
-
-
   <br />
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreanCow)](https://github.com/anuraghazra/github-readme-stats)
-
+  <h3>🛠 Tools & Services 🛠</h3>
+  <div>
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
+  </div>
   <br />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoreanCow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=KoreanCow&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </a>
+    <br />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoreanCow&layout=compact&theme=radical" alt="Top Languages" />
+    </a>
+  </div>
 </div>
 
 <!--
